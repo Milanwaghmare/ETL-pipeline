@@ -2,7 +2,7 @@
 ## Project Overview
 The goal of the project is to build an ETL pipeline.ETL(Extract, Transform, Load) is a data pipeline used to collect data from various sources, transforms the data according to business requirements, and load the data into a destination data storage.
 
-** This repository contains my first attempt  of building an ETL pipeline **
+This repository contains my first attempt  of building an ETL pipeline 
 
 - Extract, transform, and load (ETL) is the process of combining data from multiple sources into a large, central repository called a data warehouse. ETL uses a set of business rules to clean and organize raw data and prepare it for storage, data analytics, and machine learning (ML).
 
